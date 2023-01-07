@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @FaSn0w
-- 👀 I’m interested in javaScript  and c++
-- 🌱 I’m currently learning javaScript for back-end
-- 💞️ I’m looking to collaborate on any kind of aplication 
+## Hello there!
+- 👋 Olá eu sou Fabrício 
+- 👀 Meus Interesses são JavaScript e C++
+- 🌱 Atualmente estou aprendendo JavaScript voltado para Back-end. 
+- 💞️ Adoro Internet of Things, eletrônica e programação !
 - 📫 How to reach me <a href="https://www.instagram.com/fabricio__5n0w/">@fabricio__5n0w</a>
 
 <!---
