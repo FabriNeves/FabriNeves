@@ -1,11 +1,11 @@
 ## Hello there!
 - 👋 Olá eu sou Fabrício 
-- 👀 Meus Interesses são JavaScript e C++
+- 👀 Meus Interesses atuais são JavaScript e C++
 - 🌱 Atualmente estou aprendendo JavaScript voltado para Back-end. 
 - 💞️ Adoro Internet of Things, eletrônica e programação !
-- 📫 How to reach me <a href="https://www.instagram.com/fabricio__5n0w/">@fabricio__5n0w</a>
-- 
-## 
+- 📫 Redes Sociais: <a href="https://www.instagram.com/fabricio__5n0w/">@fabricio__5n0w</a>
+
+## Dashboard
 
 <div align="center">
   <a href="https://github.com/FaSn0w">
@@ -19,6 +19,14 @@
   </a>
 </div>
 
+## Linguagens  
+Estudando e aprendendo neste momento as seguintes linguagens.
+
+<div style="display: inline_block"><br>
+   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="C++/C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">  
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+</div>
 <!---
 FaSn0w/FaSn0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
