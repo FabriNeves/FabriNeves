@@ -1,7 +1,7 @@
 ## Hello there!
 - 👋 Olá eu sou Fabrício 
 - 👀 Meus Interesses atuais são JavaScript e C++
-- 🌱 Atualmente estou aprendendo JavaScript voltado para Back-end. 
+- 🌱 Atualmente estou aprendendo NodeJS. 
 - 💞️ Adoro Internet of Things, eletrônica e programação !
 - 📫 Redes Sociais: <a href="https://www.instagram.com/fabricio__5n0w/">@fabricio__5n0w</a>
 
