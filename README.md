@@ -30,6 +30,7 @@ Estudando e aprendendo neste momento as seguintes linguagens.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="52" width="52" alt="GPT-3 logo"  />
 </div>
  <img align="right"  height="100" src="https://media.tenor.com/IZiZiq-FqmIAAAAC/full-throttle.gif"  />
 
