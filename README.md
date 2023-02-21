@@ -1,6 +1,6 @@
 ## Hello there!
-- 👋 Olá eu sou Fabrício 
-- 👀 Meus Interesses atuais são JavaScript e C++
+- 👋 Olá eu sou Fabrício.
+- 👀 Meus Interesses atuais são JavaScript e Python.
 - 🌱 Atualmente estou aprendendo NodeJS. 
 - 💞️ Internet of Things, eletrônica e programação !
 - 📫 Redes Sociais: <a href="https://www.instagram.com/fabricio__5n0w/">@fabricio__5n0w</a>
@@ -19,14 +19,37 @@
   </a>
 </div>
 
+
 ## Linguagens  
 Estudando e aprendendo neste momento as seguintes linguagens.
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C++/C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">  
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+<div align="left" style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
 </div>
+ <img align="right"  height="100" src="https://media.tenor.com/IZiZiq-FqmIAAAAC/full-throttle.gif"  />
+
+### Social Media
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/fabrício-neves/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="Fabrício Neves#9268" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FaSn0w/count.svg?"  />
+</div>
+
 <!---
 FaSn0w/FaSn0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
