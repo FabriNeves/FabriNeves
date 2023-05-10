@@ -50,7 +50,7 @@ Estudando e aprendendo neste momento as seguintes linguagens.
 <div align="center">
   <img src="https://profile-counter.glitch.me/FabriNeves/count.svg?"  />
 </div>
-
+<div> 100 dias de programação no dia 10/05/2023</div>
 <!---
 FaSn0w/FaSn0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
