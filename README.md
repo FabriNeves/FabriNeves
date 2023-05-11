@@ -1,9 +1,9 @@
 ## Hello there!
 - 👋 Olá eu sou Fabrício.
-- 👀 Meus Interesses atuais são JavaScript e Python.
-- 🌱 Atualmente estou aprendendo NodeJS e TypeScript. 
+- 👀 Meus Interesses atuais são Node.js e Serverless.
+- 🌱 Atualmente estou aprendendo AWS lambda , Docker , Serverless e TypeScript. 
 - 💞️ Internet of Things, eletrônica e programação !
-- 📫 Redes Sociais: <a href="https://www.instagram.com/fabricio__5n0w/">@fabricio__5n0w</a>
+
 
 ## Dashboard
 
