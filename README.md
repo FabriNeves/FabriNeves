@@ -1,7 +1,7 @@
 ## Hello there!
 - 👋 Olá eu sou Fabrício.
 - 👀 Meus Interesses atuais são Node.js e Serverless.
-- 🌱 Atualmente estou aprendendo AWS lambda , Docker , Serverless e TypeScript. 
+- 🌱 Atualmente estou aprendendo AWS lambda , Docker , Serverless , TypeScript e testes Unitários. 
 - 💞️ Internet of Things, eletrônica e programação !
 
 
