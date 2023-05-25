@@ -7,17 +7,14 @@
 
 ## Dashboard
 
-<div align="center">
-  <a href="https://github.com/FabriNeves">
-   <! -- github stats -->
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FabriNeves&count_private=true&include_all_commits=true&show_icons=true&&title_color=FF731D&text_color=bcbdb9&bg_color=22272e&cache_seconds=1800&locale=pt-br&hide_border=false&show_owner=true">
-           <! -- language use -->
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FabriNeves&theme=ayu-mirage&hide_border=false&&layout=compact&title_color=FF731D&text_color=bcbdb9&bg_color=22272e&cache_seconds=1800&locale=pt-br">    
-           <! -- streak -->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=FabriNeves&theme=darcula&background=22272E&hide_border=false&border_radius=4.6&locale=pt-br&date_format=j%20M%5B%20Y%5D&stroke=FF731D&ring=C65917&fire=FF731D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF731D&sideLabels=FF731D&dates=5F9DF7">
-    
-  </a>
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabriNeves&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FabriNeves&hide=Html&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FabriNeves&theme=transparent) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabriNeves&theme=transparent) | ![](https://github-readme-streak-stats.herokuapp.com/?user=FabriNeves&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabriNeves&layout=compact&show_icons=false&langs_count=7&theme=transparent) |
+| :-: |
 
 
 ## Linguagens  
@@ -30,7 +27,7 @@ Estudando e aprendendo neste momento as seguintes linguagens.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="52" width="52" alt="GPT-3 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="GPT-3 logo"  />
 </div>
  <img align="right"  height="100" src="https://media.tenor.com/IZiZiq-FqmIAAAAC/full-throttle.gif"  />
 
