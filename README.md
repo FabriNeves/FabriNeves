@@ -1,7 +1,7 @@
 ## Hello there!
 - 👋 Olá eu sou Fabrício.
 - 👀 Meus Interesses atuais são Python e Power BI.
-- 🌱 Atualmente estou aprendendo Flask , Plotly , Docker , TypeScript e testes Unitários. 
+- 🌱 Atualmente estou aprendendo Plotly. 
 - 💞️ Internet of Things, eletrônica e programação !
 
 
