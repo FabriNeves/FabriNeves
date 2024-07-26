@@ -31,6 +31,9 @@ Estudando e aprendendo neste momento as seguintes linguagens.
   <a href="Fabrício Neves#9268" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+   <a href="eng.fbneves@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="mail logo"  />
+  </a>
 </div>
 
 ###
