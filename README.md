@@ -5,6 +5,7 @@
 - 👀 Meus Interesses atuais são Python🐍 e Sistemas Embarcados .
 - 🌱 Atualmente estou aprendendo Python. 
 - 💞️ Internet of Things, eletrônica e DataScience.
+-  E-mail para contato: eng.fbneves@gmail.com
 
 
 ## Dashboard
