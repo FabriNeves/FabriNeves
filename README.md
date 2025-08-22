@@ -39,9 +39,8 @@ Estudando e aprendendo neste momento as seguintes linguagens.
 
 ###
 
-<div align="center">
-  <img src=""  />
-</div>
+
+
 
 <!---
 FaSn0w/FaSn0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
