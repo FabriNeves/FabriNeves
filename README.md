@@ -40,7 +40,7 @@ Estudando e aprendendo neste momento as seguintes linguagens.
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/FabriNeves/count.svg?"  />
+  <img src=""  />
 </div>
 
 <!---
